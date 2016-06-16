@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView_venue"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="MediumText"
+        android:id="@+id/textView_venuename"
+
+        android:textSize="15sp"
+        android:layout_alignTop="@+id/imageView_venue"
+        android:layout_toRightOf="@+id/imageView_venue"
+        android:layout_toEndOf="@+id/imageView_venue" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="MediumText"
+        android:id="@+id/textView_categoryname"
+
+        android:textSize="15sp"
+        android:layout_alignBottom="@+id/imageView_venue"
+        android:layout_alignLeft="@+id/textView_venuename"
+        android:layout_alignStart="@+id/textView_venuename" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView_choice"
+        android:layout_alignTop="@+id/textView_venuename"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView_badge"
+        android:layout_alignTop="@+id/textView_venuename"
+        android:layout_toLeftOf="@+id/imageView_choice"
+        android:layout_toStartOf="@+id/imageView_choice" />
+
+</RelativeLayout>

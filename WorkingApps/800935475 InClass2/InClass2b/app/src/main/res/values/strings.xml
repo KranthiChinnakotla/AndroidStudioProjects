@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">In Class 2b</string>
+    <string name="tv_meters">Meters</string>
+    <string name="tv_result">Result</string>
+    <string name="btn_convert">Convert</string>
+    <string name="rb_toInches">To Inches</string>
+    <string name="to_Ft">To Feet</string>
+    <string name="to_Miles">To Miles</string>
+    <string name="clr">Clear All</string>
+</resources>

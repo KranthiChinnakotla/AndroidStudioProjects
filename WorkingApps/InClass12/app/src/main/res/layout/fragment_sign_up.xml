@@ -1,0 +1,65 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.medha.inclass12.SignUpFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextSignUpUserName"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:hint="First Name" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextSignUpEmail"
+            android:layout_below="@+id/editTextSignUpUserName"
+            android:layout_centerHorizontal="true"
+            android:hint="Email" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextSignUpPassword"
+            android:layout_below="@+id/editTextSignUpEmail"
+            android:layout_centerHorizontal="true"
+            android:hint="Password" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextConfirmPassword"
+            android:layout_below="@+id/editTextSignUpPassword"
+            android:layout_centerHorizontal="true"
+            android:hint="Confirm Password" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/signUp"
+            android:id="@+id/signUp"
+            android:layout_below="@+id/editTextConfirmPassword"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="71dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:id="@+id/cancel"
+            android:layout_below="@+id/signUp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="46dp" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>

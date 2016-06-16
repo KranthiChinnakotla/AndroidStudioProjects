@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1080878607705",
+    "project_id": "master-plane-129222"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080878607705:android:76b5b8fa2951acb7",
+        "android_client_info": {
+          "package_name": "com.uncc.mad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXE-LogpHZKSWybWg-A7WeLLrZ9aADYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

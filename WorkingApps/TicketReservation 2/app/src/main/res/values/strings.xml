@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TicketReservation</string>
+    <string name="title">FlightIcon</string>
+    <string name="custom_care">Customer Care:999-999-9999</string>
+    <string name="btn_Create">Create Ticket</string>
+    <string name="btn_edit">Edit Ticket</string>
+    <string name="btn_delete">Delete Ticket</string>
+    <string name="btn_view">View Ticket</string>
+    <string name="btn_finish">Finish</string>
+    <string name="del_activity">Delete Ticket</string>
+    <string name="btn_sel_ticket">Select Ticket</string>
+    <string name="var_name">Name</string>
+    <string name="var_source">Source</string>
+    <string name="var_dest">Destination</string>
+    <string name="var_trip">Trip:</string>
+    <string name="var_oneway">One-Way</string>
+    <string name="var_roundTrip">Round - Trip</string>
+    <string name="var_departuredate">Departure date</string>
+    <string name="var_Time">Time</string>
+    <string name="var_delete">Delete</string>
+    <string name="var_cancel">Cancel</string>
+    <string name="var_returning">Returning Date</string>
+    <string name="var_printsum">Print Summary</string>
+    <string name="var_labelcreateactivity">Create Ticket</string>
+    <string name="var_save">Save</string>
+    <string name="var_lableEditActivity">Edit Ticket</string>
+    <string name="var_view_Ticket">View Ticket</string>
+    <string name="btn_var_finish">Finish</string>
+    <string name="firstTicket">FirstTicket</string>
+    <string name="var_text_itnry">ITENARY</string>
+    <string name="var_label_printTkt">Print Ticket</string>
+    <string name="var_departure">Departure</string>
+    <string name="var_return">Return</string>
+    <string name="var_finish">Finish</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OrderActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Pizza Store</string>
+    <string name="order">Your Order</string>
+    <string name="base_price">Base Price:</string>
+    <string name="toppings">Toppings:</string>
+    <string name="delivery_cost">Delivery Cost:</string>
+    <string name="total">TOTAL</string>
+    <string name="finish">Finish</string>
+    <string name="basePriceValue">6.5$</string>
+</resources>

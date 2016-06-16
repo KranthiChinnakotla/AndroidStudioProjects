@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass05Spring15</string>
+    <string name="value_ok">OK</string>
+    <string name="search_keyword">Search Keyword</string>
+</resources>

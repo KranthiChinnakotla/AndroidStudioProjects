@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explicit IntentsDemo</string>
+    <string name="firstButton">Click to go to 2 activity</string>
+    <string name="secondbutton">Done !</string>
+    <string name="web_site">Go to UNCC.EDU</string>
+    <string name="phone_call">Call Phone</string>
+</resources>

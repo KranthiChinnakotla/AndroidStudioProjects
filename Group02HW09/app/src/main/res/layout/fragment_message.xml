@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.medha.group02hw09.MessageFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="400sp"
+                android:id="@+id/listView2"
+                />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/sendMessage"
+                    android:hint="@string/enterMessage"
+                    android:gravity="top"
+                    android:layout_weight="1"
+                    android:maxLength="140"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40sp"
+                    android:id="@+id/sendBtn"
+                    android:text="@string/sendBtn"
+                    android:layout_weight="4"
+                    android:gravity="center"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

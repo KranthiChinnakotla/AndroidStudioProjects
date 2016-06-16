@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <array name="toppings">
+        <item>Bacon</item>
+        <item>Cheese</item>
+        <item>Garlic</item>
+        <item>Green Pepper</item>
+        <item>Mushroom</item>
+        <item>Olives</item>
+        <item>Onions</item>
+        <item>Red Pepper</item>
+    </array>
+</resources>

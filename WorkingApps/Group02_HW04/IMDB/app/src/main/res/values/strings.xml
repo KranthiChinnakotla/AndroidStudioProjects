@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMDB Movie App</string>
+    <string name="find_movies">Find Movies</string>
+    <string name="btn_srch">Search IMDB.com</string>
+    <string name="plot">Plot:</string>
+    <string name="btn_finish">Finish</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="webview">Movie WebView</string>
+</resources>

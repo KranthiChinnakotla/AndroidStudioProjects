@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Group02_InClass06</string>
+    <string name="act_main">Popular News Events</string>
+    <string name="mp">Most Popular</string>
+    <string name="ent">Entertainment</string>
+    <string name="hlth">Health</string>
+    <string name="ls">LifeStyle</string>
+    <string name="opn">Opinion</string>
+    <string name="pltcs">Politics</string>
+    <string name="sc">Science</string>
+    <string name="sprt">Sports</string>
+    <string name="tch">Tech</string>
+</resources>

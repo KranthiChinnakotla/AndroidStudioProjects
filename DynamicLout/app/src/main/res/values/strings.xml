@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicLout</string>
+    <string name="dyn_lout">This is a dynamic layout</string>
+    <string name="btn_dlout">Click Me !</string>
+</resources>

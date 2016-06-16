@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ParseFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonLogin">Login</string>
+    <string name="loginButton">login</string>
+    <string name="buttonCreateNewAccount">create new account</string>
+    <string name="signUp">sign up</string>
+    <string name="cancel">cancel</string>
+    <string name="textViewMessage">Message</string>
+    <string name="buttonSend">Send</string>
+</resources>

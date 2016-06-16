@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">Click Me</string>
+    <string name="hello_world">Hello World !! </string>
+    <string name="ok_button_value">OK</string>
+    <string name="cancel_button_value">Cancel</string>
+    <string name="other_cancel_button">Other Cancel</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        </string-array>
+
+</resources>

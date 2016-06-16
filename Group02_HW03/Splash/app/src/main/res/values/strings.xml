@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="act_wel">Welcome</string>
+    <string name="wel_label">How Geeky Are You?</string>
+    <string name="btn_wel_exit">Exit</string>
+    <string name="btn_wel_start">Start Quiz</string>
+    <string name="act_quiz">Quiz</string>
+    <string name="btn_quiz_quit">Quit</string>
+    <string name="btn_next">Next</string>
+    <string name="result">Quiz Results:</string>
+    <string name="quit_result">Quit</string>
+    <string name="result_try">Try Again</string>
+    <string name="non_geek_desc">There is not a single geeky bone in your body. You prefer to party rather than study, and have someone else fix your computer, if need be. You are just too cool for this. You probably do not even wear glasses!</string>
+    <string name="semi_geek_desc">Maybe you are just influenced by the trend, or maybe you just got it all perfectly balanced. You have some geeky traits, but they are not as "hardcore" and they do not take over your life. You like some geeky things, but are not nearly as obsessive about them as the uber-geeks. You actually get to enjoy both worlds</string>
+    <string name="uber_geek_desc">You are the geek supreme! You are likely to be interested in technology, science, gaming and geeky media such as Sci-Fi and fantasy. All the mean kids that used to laugh at you in high school are now begging you for a job. Be proud of your geeky nature, for geeks shall inherit the Earth!</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".VenueActivity">
+
+    <item android:id="@+id/marked_venues"
+        android:title="View marked venues" />
+    <item android:id="@+id/clear_all"
+        android:title="Clear All" />
+
+</menu>

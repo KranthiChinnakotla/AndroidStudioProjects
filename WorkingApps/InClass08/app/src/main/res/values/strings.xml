@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass08App</string>
+    <string name="home">home</string>
+    <string name="submit">Submit</string>
+    <string name="showBookmark">Show Bookmark</string>
+    <string name="clearAllBookmarks">Clear All Bookmarks</string>
+
+</resources>

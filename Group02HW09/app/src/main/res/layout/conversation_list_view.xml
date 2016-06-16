@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="60sp"
+        android:layout_height="60sp"
+        android:id="@+id/profilePicture" />
+
+    <TextView
+        android:layout_width="150sp"
+        android:layout_height="60sp"
+        android:text="Teja Kanchinadam"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/userName"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/profilePicture"
+        android:layout_toEndOf="@+id/profilePicture" />
+
+    <ImageView
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:id="@+id/redBubble"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/userName"
+        android:layout_toEndOf="@+id/userName"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:layout_alignBottom="@+id/userName" />
+
+    <ImageView
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:id="@+id/phonePicture"
+        android:src="@drawable/phone"
+        android:layout_toRightOf="@+id/redBubble"
+        android:layout_toEndOf="@+id/redBubble"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp"/>
+
+</RelativeLayout>

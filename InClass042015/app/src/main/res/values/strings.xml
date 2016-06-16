@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass042015</string>
+    <string name="activity_name">Main Activity</string>
+    <string name="textView_SltCmplx">Select Complexity :</string>
+    <string name="gennum_asynctash">Generate number Async task</string>
+    <string name="gen_numthread">Genererate number thread</string>
+</resources>
